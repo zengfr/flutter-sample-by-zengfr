@@ -1,0 +1,18 @@
+{
+  "home": "主页",
+  "index": "首页",
+  "me": "我的",
+  "search": "搜索",
+  "setting": "设置",
+  "display": "显示",
+  "locale": "语言",
+  "theme": "主题",
+  "dark_theme": "深色主题",
+  "color": "颜色",
+  "nav_type": "导航类型",
+  "text_size": "字体大小",
+
+  "classify": "分类",
+  "shopping_cart": "购物车",
+  "member_center": "用户中心"
+}

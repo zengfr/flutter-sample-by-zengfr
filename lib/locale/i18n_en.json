@@ -1,0 +1,18 @@
+{
+  "home": "home",
+  "index": "Index",
+  "me": "Me",
+  "search": "Search",
+  "setting": "Setting",
+  "display": "Display",
+  "locale": "Locale",
+  "theme": "Theme",
+  "dark_theme": "Dark Theme",
+  "color": "Color",
+  "nav_type": "Nav Type",
+  "text_size": "Text Size",
+
+  "classify": "classify",
+  "shopping_cart": "Shopping Cart",
+  "member_center": "Member Center"
+}
